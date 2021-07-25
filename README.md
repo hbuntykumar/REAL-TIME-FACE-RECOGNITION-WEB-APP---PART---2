@@ -1,3 +1,1 @@
-# FaceRecognitionWebApp-3
-
-https://hbuntykumar.github.io/REAL-TIME-FACE-RECOGNITION-WEB-APP---PART---2/index.html
+# ADV-C118-REAL-TIME-FACE-RECOGNITION-WEB-APP---PART---2
